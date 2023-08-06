@@ -10,7 +10,7 @@
 			"name": "Health Check",
 			"event": [
 				{
-					"listen": "test",
+					"listen": "test",	
 					"script": {
 						"exec": [
 							"pm.test(\"Health check should pass\", function() {",
